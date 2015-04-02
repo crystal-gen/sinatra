@@ -1,0 +1,7 @@
+name: sinatra
+version: 0.1.0
+description: sinatra generator
+
+generators:
+  project:
+    version: latest
